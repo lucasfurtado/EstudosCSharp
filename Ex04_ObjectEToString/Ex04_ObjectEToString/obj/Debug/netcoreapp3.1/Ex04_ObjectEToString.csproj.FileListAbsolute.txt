@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex04_ObjectEToString\Ex04_ObjectEToString\bin\Debug\netcoreapp3.1\Ex04_ObjectEToString.exe
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex04_ObjectEToString\Ex04_ObjectEToString\bin\Debug\netcoreapp3.1\Ex04_ObjectEToString.deps.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex04_ObjectEToString\Ex04_ObjectEToString\bin\Debug\netcoreapp3.1\Ex04_ObjectEToString.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex04_ObjectEToString\Ex04_ObjectEToString\bin\Debug\netcoreapp3.1\Ex04_ObjectEToString.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex04_ObjectEToString\Ex04_ObjectEToString\bin\Debug\netcoreapp3.1\Ex04_ObjectEToString.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex04_ObjectEToString\Ex04_ObjectEToString\bin\Debug\netcoreapp3.1\Ex04_ObjectEToString.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex04_ObjectEToString\Ex04_ObjectEToString\obj\Debug\netcoreapp3.1\Ex04_ObjectEToString.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex04_ObjectEToString\Ex04_ObjectEToString\obj\Debug\netcoreapp3.1\Ex04_ObjectEToString.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex04_ObjectEToString\Ex04_ObjectEToString\obj\Debug\netcoreapp3.1\Ex04_ObjectEToString.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex04_ObjectEToString\Ex04_ObjectEToString\obj\Debug\netcoreapp3.1\Ex04_ObjectEToString.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex04_ObjectEToString\Ex04_ObjectEToString\obj\Debug\netcoreapp3.1\Ex04_ObjectEToString.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex04_ObjectEToString\Ex04_ObjectEToString\obj\Debug\netcoreapp3.1\Ex04_ObjectEToString.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex04_ObjectEToString\Ex04_ObjectEToString\obj\Debug\netcoreapp3.1\Ex04_ObjectEToString.genruntimeconfig.cache

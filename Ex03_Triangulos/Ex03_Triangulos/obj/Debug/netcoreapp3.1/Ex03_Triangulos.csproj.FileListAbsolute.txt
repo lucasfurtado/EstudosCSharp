@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex03_Triangulos\Ex03_Triangulos\bin\Debug\netcoreapp3.1\Ex03_Triangulos.exe
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex03_Triangulos\Ex03_Triangulos\bin\Debug\netcoreapp3.1\Ex03_Triangulos.deps.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex03_Triangulos\Ex03_Triangulos\bin\Debug\netcoreapp3.1\Ex03_Triangulos.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex03_Triangulos\Ex03_Triangulos\bin\Debug\netcoreapp3.1\Ex03_Triangulos.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex03_Triangulos\Ex03_Triangulos\bin\Debug\netcoreapp3.1\Ex03_Triangulos.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex03_Triangulos\Ex03_Triangulos\bin\Debug\netcoreapp3.1\Ex03_Triangulos.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex03_Triangulos\Ex03_Triangulos\obj\Debug\netcoreapp3.1\Ex03_Triangulos.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex03_Triangulos\Ex03_Triangulos\obj\Debug\netcoreapp3.1\Ex03_Triangulos.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex03_Triangulos\Ex03_Triangulos\obj\Debug\netcoreapp3.1\Ex03_Triangulos.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex03_Triangulos\Ex03_Triangulos\obj\Debug\netcoreapp3.1\Ex03_Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex03_Triangulos\Ex03_Triangulos\obj\Debug\netcoreapp3.1\Ex03_Triangulos.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex03_Triangulos\Ex03_Triangulos\obj\Debug\netcoreapp3.1\Ex03_Triangulos.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex03_Triangulos\Ex03_Triangulos\obj\Debug\netcoreapp3.1\Ex03_Triangulos.genruntimeconfig.cache
