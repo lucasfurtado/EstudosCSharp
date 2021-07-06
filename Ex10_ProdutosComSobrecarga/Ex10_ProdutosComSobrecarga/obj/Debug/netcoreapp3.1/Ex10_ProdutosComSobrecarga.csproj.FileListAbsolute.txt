@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex10_ProdutosComSobrecarga\Ex10_ProdutosComSobrecarga\bin\Debug\netcoreapp3.1\Ex10_ProdutosComSobrecarga.exe
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex10_ProdutosComSobrecarga\Ex10_ProdutosComSobrecarga\bin\Debug\netcoreapp3.1\Ex10_ProdutosComSobrecarga.deps.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex10_ProdutosComSobrecarga\Ex10_ProdutosComSobrecarga\bin\Debug\netcoreapp3.1\Ex10_ProdutosComSobrecarga.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex10_ProdutosComSobrecarga\Ex10_ProdutosComSobrecarga\bin\Debug\netcoreapp3.1\Ex10_ProdutosComSobrecarga.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex10_ProdutosComSobrecarga\Ex10_ProdutosComSobrecarga\bin\Debug\netcoreapp3.1\Ex10_ProdutosComSobrecarga.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex10_ProdutosComSobrecarga\Ex10_ProdutosComSobrecarga\bin\Debug\netcoreapp3.1\Ex10_ProdutosComSobrecarga.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex10_ProdutosComSobrecarga\Ex10_ProdutosComSobrecarga\obj\Debug\netcoreapp3.1\Ex10_ProdutosComSobrecarga.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex10_ProdutosComSobrecarga\Ex10_ProdutosComSobrecarga\obj\Debug\netcoreapp3.1\Ex10_ProdutosComSobrecarga.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex10_ProdutosComSobrecarga\Ex10_ProdutosComSobrecarga\obj\Debug\netcoreapp3.1\Ex10_ProdutosComSobrecarga.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex10_ProdutosComSobrecarga\Ex10_ProdutosComSobrecarga\obj\Debug\netcoreapp3.1\Ex10_ProdutosComSobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex10_ProdutosComSobrecarga\Ex10_ProdutosComSobrecarga\obj\Debug\netcoreapp3.1\Ex10_ProdutosComSobrecarga.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex10_ProdutosComSobrecarga\Ex10_ProdutosComSobrecarga\obj\Debug\netcoreapp3.1\Ex10_ProdutosComSobrecarga.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex10_ProdutosComSobrecarga\Ex10_ProdutosComSobrecarga\obj\Debug\netcoreapp3.1\Ex10_ProdutosComSobrecarga.genruntimeconfig.cache

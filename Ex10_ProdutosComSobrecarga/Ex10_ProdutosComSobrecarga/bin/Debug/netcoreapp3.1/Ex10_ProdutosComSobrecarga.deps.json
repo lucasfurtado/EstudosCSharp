@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ex10_ProdutosComSobrecarga/1.0.0": {
+        "runtime": {
+          "Ex10_ProdutosComSobrecarga.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex10_ProdutosComSobrecarga/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

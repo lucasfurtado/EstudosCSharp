@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex09_ProdutosComConstrutor\Ex09_ProdutosComConstrutor\bin\Debug\netcoreapp3.1\Ex09_ProdutosComConstrutor.exe
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex09_ProdutosComConstrutor\Ex09_ProdutosComConstrutor\bin\Debug\netcoreapp3.1\Ex09_ProdutosComConstrutor.deps.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex09_ProdutosComConstrutor\Ex09_ProdutosComConstrutor\bin\Debug\netcoreapp3.1\Ex09_ProdutosComConstrutor.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex09_ProdutosComConstrutor\Ex09_ProdutosComConstrutor\bin\Debug\netcoreapp3.1\Ex09_ProdutosComConstrutor.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex09_ProdutosComConstrutor\Ex09_ProdutosComConstrutor\bin\Debug\netcoreapp3.1\Ex09_ProdutosComConstrutor.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex09_ProdutosComConstrutor\Ex09_ProdutosComConstrutor\bin\Debug\netcoreapp3.1\Ex09_ProdutosComConstrutor.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex09_ProdutosComConstrutor\Ex09_ProdutosComConstrutor\obj\Debug\netcoreapp3.1\Ex09_ProdutosComConstrutor.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex09_ProdutosComConstrutor\Ex09_ProdutosComConstrutor\obj\Debug\netcoreapp3.1\Ex09_ProdutosComConstrutor.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex09_ProdutosComConstrutor\Ex09_ProdutosComConstrutor\obj\Debug\netcoreapp3.1\Ex09_ProdutosComConstrutor.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex09_ProdutosComConstrutor\Ex09_ProdutosComConstrutor\obj\Debug\netcoreapp3.1\Ex09_ProdutosComConstrutor.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex09_ProdutosComConstrutor\Ex09_ProdutosComConstrutor\obj\Debug\netcoreapp3.1\Ex09_ProdutosComConstrutor.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex09_ProdutosComConstrutor\Ex09_ProdutosComConstrutor\obj\Debug\netcoreapp3.1\Ex09_ProdutosComConstrutor.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex09_ProdutosComConstrutor\Ex09_ProdutosComConstrutor\obj\Debug\netcoreapp3.1\Ex09_ProdutosComConstrutor.genruntimeconfig.cache
