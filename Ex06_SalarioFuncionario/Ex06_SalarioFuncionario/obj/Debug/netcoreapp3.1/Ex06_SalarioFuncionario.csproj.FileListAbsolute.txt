@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex06_SalarioFuncionario\Ex06_SalarioFuncionario\bin\Debug\netcoreapp3.1\Ex06_SalarioFuncionario.exe
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex06_SalarioFuncionario\Ex06_SalarioFuncionario\bin\Debug\netcoreapp3.1\Ex06_SalarioFuncionario.deps.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex06_SalarioFuncionario\Ex06_SalarioFuncionario\bin\Debug\netcoreapp3.1\Ex06_SalarioFuncionario.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex06_SalarioFuncionario\Ex06_SalarioFuncionario\bin\Debug\netcoreapp3.1\Ex06_SalarioFuncionario.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex06_SalarioFuncionario\Ex06_SalarioFuncionario\bin\Debug\netcoreapp3.1\Ex06_SalarioFuncionario.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex06_SalarioFuncionario\Ex06_SalarioFuncionario\bin\Debug\netcoreapp3.1\Ex06_SalarioFuncionario.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex06_SalarioFuncionario\Ex06_SalarioFuncionario\obj\Debug\netcoreapp3.1\Ex06_SalarioFuncionario.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex06_SalarioFuncionario\Ex06_SalarioFuncionario\obj\Debug\netcoreapp3.1\Ex06_SalarioFuncionario.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex06_SalarioFuncionario\Ex06_SalarioFuncionario\obj\Debug\netcoreapp3.1\Ex06_SalarioFuncionario.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex06_SalarioFuncionario\Ex06_SalarioFuncionario\obj\Debug\netcoreapp3.1\Ex06_SalarioFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex06_SalarioFuncionario\Ex06_SalarioFuncionario\obj\Debug\netcoreapp3.1\Ex06_SalarioFuncionario.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex06_SalarioFuncionario\Ex06_SalarioFuncionario\obj\Debug\netcoreapp3.1\Ex06_SalarioFuncionario.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex06_SalarioFuncionario\Ex06_SalarioFuncionario\obj\Debug\netcoreapp3.1\Ex06_SalarioFuncionario.genruntimeconfig.cache

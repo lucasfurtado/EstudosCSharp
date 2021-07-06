@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex05_Retangulo\Ex05_Retangulo\bin\Debug\netcoreapp3.1\Ex05_Retangulo.exe
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex05_Retangulo\Ex05_Retangulo\bin\Debug\netcoreapp3.1\Ex05_Retangulo.deps.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex05_Retangulo\Ex05_Retangulo\bin\Debug\netcoreapp3.1\Ex05_Retangulo.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex05_Retangulo\Ex05_Retangulo\bin\Debug\netcoreapp3.1\Ex05_Retangulo.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex05_Retangulo\Ex05_Retangulo\bin\Debug\netcoreapp3.1\Ex05_Retangulo.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex05_Retangulo\Ex05_Retangulo\bin\Debug\netcoreapp3.1\Ex05_Retangulo.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex05_Retangulo\Ex05_Retangulo\obj\Debug\netcoreapp3.1\Ex05_Retangulo.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex05_Retangulo\Ex05_Retangulo\obj\Debug\netcoreapp3.1\Ex05_Retangulo.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex05_Retangulo\Ex05_Retangulo\obj\Debug\netcoreapp3.1\Ex05_Retangulo.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex05_Retangulo\Ex05_Retangulo\obj\Debug\netcoreapp3.1\Ex05_Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex05_Retangulo\Ex05_Retangulo\obj\Debug\netcoreapp3.1\Ex05_Retangulo.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex05_Retangulo\Ex05_Retangulo\obj\Debug\netcoreapp3.1\Ex05_Retangulo.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex05_Retangulo\Ex05_Retangulo\obj\Debug\netcoreapp3.1\Ex05_Retangulo.genruntimeconfig.cache

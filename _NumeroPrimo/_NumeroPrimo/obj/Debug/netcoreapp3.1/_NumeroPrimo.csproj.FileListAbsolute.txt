@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\_NumeroPrimo\_NumeroPrimo\bin\Debug\netcoreapp3.1\_NumeroPrimo.exe
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\_NumeroPrimo\_NumeroPrimo\bin\Debug\netcoreapp3.1\_NumeroPrimo.deps.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\_NumeroPrimo\_NumeroPrimo\bin\Debug\netcoreapp3.1\_NumeroPrimo.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\_NumeroPrimo\_NumeroPrimo\bin\Debug\netcoreapp3.1\_NumeroPrimo.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\_NumeroPrimo\_NumeroPrimo\bin\Debug\netcoreapp3.1\_NumeroPrimo.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\_NumeroPrimo\_NumeroPrimo\bin\Debug\netcoreapp3.1\_NumeroPrimo.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\_NumeroPrimo\_NumeroPrimo\obj\Debug\netcoreapp3.1\_NumeroPrimo.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\_NumeroPrimo\_NumeroPrimo\obj\Debug\netcoreapp3.1\_NumeroPrimo.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\_NumeroPrimo\_NumeroPrimo\obj\Debug\netcoreapp3.1\_NumeroPrimo.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\_NumeroPrimo\_NumeroPrimo\obj\Debug\netcoreapp3.1\_NumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\_NumeroPrimo\_NumeroPrimo\obj\Debug\netcoreapp3.1\_NumeroPrimo.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\_NumeroPrimo\_NumeroPrimo\obj\Debug\netcoreapp3.1\_NumeroPrimo.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\_NumeroPrimo\_NumeroPrimo\obj\Debug\netcoreapp3.1\_NumeroPrimo.genruntimeconfig.cache
