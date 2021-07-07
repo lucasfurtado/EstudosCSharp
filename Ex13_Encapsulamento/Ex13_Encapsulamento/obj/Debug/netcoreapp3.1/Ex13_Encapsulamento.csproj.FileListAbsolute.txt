@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex13_Encapsulamento\Ex13_Encapsulamento\bin\Debug\netcoreapp3.1\Ex13_Encapsulamento.exe
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex13_Encapsulamento\Ex13_Encapsulamento\bin\Debug\netcoreapp3.1\Ex13_Encapsulamento.deps.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex13_Encapsulamento\Ex13_Encapsulamento\bin\Debug\netcoreapp3.1\Ex13_Encapsulamento.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex13_Encapsulamento\Ex13_Encapsulamento\bin\Debug\netcoreapp3.1\Ex13_Encapsulamento.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex13_Encapsulamento\Ex13_Encapsulamento\bin\Debug\netcoreapp3.1\Ex13_Encapsulamento.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex13_Encapsulamento\Ex13_Encapsulamento\bin\Debug\netcoreapp3.1\Ex13_Encapsulamento.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex13_Encapsulamento\Ex13_Encapsulamento\obj\Debug\netcoreapp3.1\Ex13_Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex13_Encapsulamento\Ex13_Encapsulamento\obj\Debug\netcoreapp3.1\Ex13_Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex13_Encapsulamento\Ex13_Encapsulamento\obj\Debug\netcoreapp3.1\Ex13_Encapsulamento.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex13_Encapsulamento\Ex13_Encapsulamento\obj\Debug\netcoreapp3.1\Ex13_Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex13_Encapsulamento\Ex13_Encapsulamento\obj\Debug\netcoreapp3.1\Ex13_Encapsulamento.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex13_Encapsulamento\Ex13_Encapsulamento\obj\Debug\netcoreapp3.1\Ex13_Encapsulamento.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex13_Encapsulamento\Ex13_Encapsulamento\obj\Debug\netcoreapp3.1\Ex13_Encapsulamento.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex14_Properties\Ex14_Properties\bin\Debug\netcoreapp3.1\Ex14_Properties.exe
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex14_Properties\Ex14_Properties\bin\Debug\netcoreapp3.1\Ex14_Properties.deps.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex14_Properties\Ex14_Properties\bin\Debug\netcoreapp3.1\Ex14_Properties.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex14_Properties\Ex14_Properties\bin\Debug\netcoreapp3.1\Ex14_Properties.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex14_Properties\Ex14_Properties\bin\Debug\netcoreapp3.1\Ex14_Properties.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex14_Properties\Ex14_Properties\bin\Debug\netcoreapp3.1\Ex14_Properties.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex14_Properties\Ex14_Properties\obj\Debug\netcoreapp3.1\Ex14_Properties.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex14_Properties\Ex14_Properties\obj\Debug\netcoreapp3.1\Ex14_Properties.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex14_Properties\Ex14_Properties\obj\Debug\netcoreapp3.1\Ex14_Properties.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex14_Properties\Ex14_Properties\obj\Debug\netcoreapp3.1\Ex14_Properties.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex14_Properties\Ex14_Properties\obj\Debug\netcoreapp3.1\Ex14_Properties.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex14_Properties\Ex14_Properties\obj\Debug\netcoreapp3.1\Ex14_Properties.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex14_Properties\Ex14_Properties\obj\Debug\netcoreapp3.1\Ex14_Properties.genruntimeconfig.cache
