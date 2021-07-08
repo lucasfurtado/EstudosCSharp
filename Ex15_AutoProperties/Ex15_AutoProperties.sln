@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex15_AutoProperties", "Ex15_AutoProperties\Ex15_AutoProperties.csproj", "{8EEAF3BE-1099-4E03-8BDB-D07468FDDFA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EEAF3BE-1099-4E03-8BDB-D07468FDDFA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEAF3BE-1099-4E03-8BDB-D07468FDDFA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEAF3BE-1099-4E03-8BDB-D07468FDDFA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEAF3BE-1099-4E03-8BDB-D07468FDDFA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A4B062E-0791-4F9D-A0A2-1785E07DD669}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex16_RevisãoBanco\Ex16_RevisãoBanco\bin\Debug\netcoreapp3.1\Ex16_RevisãoBanco.exe
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex16_RevisãoBanco\Ex16_RevisãoBanco\bin\Debug\netcoreapp3.1\Ex16_RevisãoBanco.deps.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex16_RevisãoBanco\Ex16_RevisãoBanco\bin\Debug\netcoreapp3.1\Ex16_RevisãoBanco.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex16_RevisãoBanco\Ex16_RevisãoBanco\bin\Debug\netcoreapp3.1\Ex16_RevisãoBanco.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex16_RevisãoBanco\Ex16_RevisãoBanco\bin\Debug\netcoreapp3.1\Ex16_RevisãoBanco.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex16_RevisãoBanco\Ex16_RevisãoBanco\bin\Debug\netcoreapp3.1\Ex16_RevisãoBanco.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex16_RevisãoBanco\Ex16_RevisãoBanco\obj\Debug\netcoreapp3.1\Ex16_RevisãoBanco.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex16_RevisãoBanco\Ex16_RevisãoBanco\obj\Debug\netcoreapp3.1\Ex16_RevisãoBanco.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex16_RevisãoBanco\Ex16_RevisãoBanco\obj\Debug\netcoreapp3.1\Ex16_RevisãoBanco.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex16_RevisãoBanco\Ex16_RevisãoBanco\obj\Debug\netcoreapp3.1\Ex16_RevisãoBanco.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex16_RevisãoBanco\Ex16_RevisãoBanco\obj\Debug\netcoreapp3.1\Ex16_RevisãoBanco.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex16_RevisãoBanco\Ex16_RevisãoBanco\obj\Debug\netcoreapp3.1\Ex16_RevisãoBanco.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex16_RevisãoBanco\Ex16_RevisãoBanco\obj\Debug\netcoreapp3.1\Ex16_RevisãoBanco.genruntimeconfig.cache

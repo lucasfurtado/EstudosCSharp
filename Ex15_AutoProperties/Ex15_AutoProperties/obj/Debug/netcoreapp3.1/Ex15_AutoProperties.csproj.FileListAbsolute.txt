@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex15_AutoProperties\Ex15_AutoProperties\bin\Debug\netcoreapp3.1\Ex15_AutoProperties.exe
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex15_AutoProperties\Ex15_AutoProperties\bin\Debug\netcoreapp3.1\Ex15_AutoProperties.deps.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex15_AutoProperties\Ex15_AutoProperties\bin\Debug\netcoreapp3.1\Ex15_AutoProperties.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex15_AutoProperties\Ex15_AutoProperties\bin\Debug\netcoreapp3.1\Ex15_AutoProperties.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex15_AutoProperties\Ex15_AutoProperties\bin\Debug\netcoreapp3.1\Ex15_AutoProperties.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex15_AutoProperties\Ex15_AutoProperties\bin\Debug\netcoreapp3.1\Ex15_AutoProperties.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex15_AutoProperties\Ex15_AutoProperties\obj\Debug\netcoreapp3.1\Ex15_AutoProperties.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex15_AutoProperties\Ex15_AutoProperties\obj\Debug\netcoreapp3.1\Ex15_AutoProperties.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex15_AutoProperties\Ex15_AutoProperties\obj\Debug\netcoreapp3.1\Ex15_AutoProperties.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex15_AutoProperties\Ex15_AutoProperties\obj\Debug\netcoreapp3.1\Ex15_AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex15_AutoProperties\Ex15_AutoProperties\obj\Debug\netcoreapp3.1\Ex15_AutoProperties.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex15_AutoProperties\Ex15_AutoProperties\obj\Debug\netcoreapp3.1\Ex15_AutoProperties.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex15_AutoProperties\Ex15_AutoProperties\obj\Debug\netcoreapp3.1\Ex15_AutoProperties.genruntimeconfig.cache
