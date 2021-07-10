@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex19_RegistroEmpregados\Ex19_RegistroEmpregados\bin\Debug\netcoreapp3.1\Ex19_RegistroEmpregados.exe
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex19_RegistroEmpregados\Ex19_RegistroEmpregados\bin\Debug\netcoreapp3.1\Ex19_RegistroEmpregados.deps.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex19_RegistroEmpregados\Ex19_RegistroEmpregados\bin\Debug\netcoreapp3.1\Ex19_RegistroEmpregados.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex19_RegistroEmpregados\Ex19_RegistroEmpregados\bin\Debug\netcoreapp3.1\Ex19_RegistroEmpregados.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex19_RegistroEmpregados\Ex19_RegistroEmpregados\bin\Debug\netcoreapp3.1\Ex19_RegistroEmpregados.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex19_RegistroEmpregados\Ex19_RegistroEmpregados\bin\Debug\netcoreapp3.1\Ex19_RegistroEmpregados.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex19_RegistroEmpregados\Ex19_RegistroEmpregados\obj\Debug\netcoreapp3.1\Ex19_RegistroEmpregados.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex19_RegistroEmpregados\Ex19_RegistroEmpregados\obj\Debug\netcoreapp3.1\Ex19_RegistroEmpregados.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex19_RegistroEmpregados\Ex19_RegistroEmpregados\obj\Debug\netcoreapp3.1\Ex19_RegistroEmpregados.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex19_RegistroEmpregados\Ex19_RegistroEmpregados\obj\Debug\netcoreapp3.1\Ex19_RegistroEmpregados.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex19_RegistroEmpregados\Ex19_RegistroEmpregados\obj\Debug\netcoreapp3.1\Ex19_RegistroEmpregados.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex19_RegistroEmpregados\Ex19_RegistroEmpregados\obj\Debug\netcoreapp3.1\Ex19_RegistroEmpregados.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex19_RegistroEmpregados\Ex19_RegistroEmpregados\obj\Debug\netcoreapp3.1\Ex19_RegistroEmpregados.genruntimeconfig.cache

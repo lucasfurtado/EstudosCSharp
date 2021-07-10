@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex20_CadastroHoteis\Ex20_CadastroHoteis\bin\Debug\netcoreapp3.1\Ex20_CadastroHoteis.exe
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex20_CadastroHoteis\Ex20_CadastroHoteis\bin\Debug\netcoreapp3.1\Ex20_CadastroHoteis.deps.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex20_CadastroHoteis\Ex20_CadastroHoteis\bin\Debug\netcoreapp3.1\Ex20_CadastroHoteis.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex20_CadastroHoteis\Ex20_CadastroHoteis\bin\Debug\netcoreapp3.1\Ex20_CadastroHoteis.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex20_CadastroHoteis\Ex20_CadastroHoteis\bin\Debug\netcoreapp3.1\Ex20_CadastroHoteis.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex20_CadastroHoteis\Ex20_CadastroHoteis\bin\Debug\netcoreapp3.1\Ex20_CadastroHoteis.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex20_CadastroHoteis\Ex20_CadastroHoteis\obj\Debug\netcoreapp3.1\Ex20_CadastroHoteis.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex20_CadastroHoteis\Ex20_CadastroHoteis\obj\Debug\netcoreapp3.1\Ex20_CadastroHoteis.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex20_CadastroHoteis\Ex20_CadastroHoteis\obj\Debug\netcoreapp3.1\Ex20_CadastroHoteis.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex20_CadastroHoteis\Ex20_CadastroHoteis\obj\Debug\netcoreapp3.1\Ex20_CadastroHoteis.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex20_CadastroHoteis\Ex20_CadastroHoteis\obj\Debug\netcoreapp3.1\Ex20_CadastroHoteis.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex20_CadastroHoteis\Ex20_CadastroHoteis\obj\Debug\netcoreapp3.1\Ex20_CadastroHoteis.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex20_CadastroHoteis\Ex20_CadastroHoteis\obj\Debug\netcoreapp3.1\Ex20_CadastroHoteis.genruntimeconfig.cache

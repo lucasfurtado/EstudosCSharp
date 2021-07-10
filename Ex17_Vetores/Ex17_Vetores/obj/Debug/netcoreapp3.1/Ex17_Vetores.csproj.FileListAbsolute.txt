@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex17_Vetores\Ex17_Vetores\bin\Debug\netcoreapp3.1\Ex17_Vetores.exe
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex17_Vetores\Ex17_Vetores\bin\Debug\netcoreapp3.1\Ex17_Vetores.deps.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex17_Vetores\Ex17_Vetores\bin\Debug\netcoreapp3.1\Ex17_Vetores.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex17_Vetores\Ex17_Vetores\bin\Debug\netcoreapp3.1\Ex17_Vetores.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex17_Vetores\Ex17_Vetores\bin\Debug\netcoreapp3.1\Ex17_Vetores.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex17_Vetores\Ex17_Vetores\bin\Debug\netcoreapp3.1\Ex17_Vetores.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex17_Vetores\Ex17_Vetores\obj\Debug\netcoreapp3.1\Ex17_Vetores.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex17_Vetores\Ex17_Vetores\obj\Debug\netcoreapp3.1\Ex17_Vetores.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex17_Vetores\Ex17_Vetores\obj\Debug\netcoreapp3.1\Ex17_Vetores.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex17_Vetores\Ex17_Vetores\obj\Debug\netcoreapp3.1\Ex17_Vetores.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex17_Vetores\Ex17_Vetores\obj\Debug\netcoreapp3.1\Ex17_Vetores.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex17_Vetores\Ex17_Vetores\obj\Debug\netcoreapp3.1\Ex17_Vetores.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex17_Vetores\Ex17_Vetores\obj\Debug\netcoreapp3.1\Ex17_Vetores.genruntimeconfig.cache
