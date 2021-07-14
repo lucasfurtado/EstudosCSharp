@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ex21_ModificadorDeParametros/1.0.0": {
+        "runtime": {
+          "Ex21_ModificadorDeParametros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex21_ModificadorDeParametros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

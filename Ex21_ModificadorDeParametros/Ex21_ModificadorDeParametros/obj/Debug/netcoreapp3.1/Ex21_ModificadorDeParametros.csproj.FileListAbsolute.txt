@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex21_ModificadorDeParametros\Ex21_ModificadorDeParametros\bin\Debug\netcoreapp3.1\Ex21_ModificadorDeParametros.exe
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex21_ModificadorDeParametros\Ex21_ModificadorDeParametros\bin\Debug\netcoreapp3.1\Ex21_ModificadorDeParametros.deps.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex21_ModificadorDeParametros\Ex21_ModificadorDeParametros\bin\Debug\netcoreapp3.1\Ex21_ModificadorDeParametros.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex21_ModificadorDeParametros\Ex21_ModificadorDeParametros\bin\Debug\netcoreapp3.1\Ex21_ModificadorDeParametros.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex21_ModificadorDeParametros\Ex21_ModificadorDeParametros\bin\Debug\netcoreapp3.1\Ex21_ModificadorDeParametros.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex21_ModificadorDeParametros\Ex21_ModificadorDeParametros\bin\Debug\netcoreapp3.1\Ex21_ModificadorDeParametros.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex21_ModificadorDeParametros\Ex21_ModificadorDeParametros\obj\Debug\netcoreapp3.1\Ex21_ModificadorDeParametros.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex21_ModificadorDeParametros\Ex21_ModificadorDeParametros\obj\Debug\netcoreapp3.1\Ex21_ModificadorDeParametros.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex21_ModificadorDeParametros\Ex21_ModificadorDeParametros\obj\Debug\netcoreapp3.1\Ex21_ModificadorDeParametros.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex21_ModificadorDeParametros\Ex21_ModificadorDeParametros\obj\Debug\netcoreapp3.1\Ex21_ModificadorDeParametros.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex21_ModificadorDeParametros\Ex21_ModificadorDeParametros\obj\Debug\netcoreapp3.1\Ex21_ModificadorDeParametros.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex21_ModificadorDeParametros\Ex21_ModificadorDeParametros\obj\Debug\netcoreapp3.1\Ex21_ModificadorDeParametros.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex21_ModificadorDeParametros\Ex21_ModificadorDeParametros\obj\Debug\netcoreapp3.1\Ex21_ModificadorDeParametros.genruntimeconfig.cache

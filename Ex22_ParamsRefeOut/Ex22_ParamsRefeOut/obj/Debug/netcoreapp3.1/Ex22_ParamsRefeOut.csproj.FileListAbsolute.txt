@@ -1,0 +1,13 @@
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex22_ParamsRefeOut\Ex22_ParamsRefeOut\bin\Debug\netcoreapp3.1\Ex22_ParamsRefeOut.exe
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex22_ParamsRefeOut\Ex22_ParamsRefeOut\bin\Debug\netcoreapp3.1\Ex22_ParamsRefeOut.deps.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex22_ParamsRefeOut\Ex22_ParamsRefeOut\bin\Debug\netcoreapp3.1\Ex22_ParamsRefeOut.runtimeconfig.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex22_ParamsRefeOut\Ex22_ParamsRefeOut\bin\Debug\netcoreapp3.1\Ex22_ParamsRefeOut.runtimeconfig.dev.json
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex22_ParamsRefeOut\Ex22_ParamsRefeOut\bin\Debug\netcoreapp3.1\Ex22_ParamsRefeOut.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex22_ParamsRefeOut\Ex22_ParamsRefeOut\bin\Debug\netcoreapp3.1\Ex22_ParamsRefeOut.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex22_ParamsRefeOut\Ex22_ParamsRefeOut\obj\Debug\netcoreapp3.1\Ex22_ParamsRefeOut.csproj.AssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex22_ParamsRefeOut\Ex22_ParamsRefeOut\obj\Debug\netcoreapp3.1\Ex22_ParamsRefeOut.AssemblyInfoInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex22_ParamsRefeOut\Ex22_ParamsRefeOut\obj\Debug\netcoreapp3.1\Ex22_ParamsRefeOut.AssemblyInfo.cs
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex22_ParamsRefeOut\Ex22_ParamsRefeOut\obj\Debug\netcoreapp3.1\Ex22_ParamsRefeOut.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex22_ParamsRefeOut\Ex22_ParamsRefeOut\obj\Debug\netcoreapp3.1\Ex22_ParamsRefeOut.dll
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex22_ParamsRefeOut\Ex22_ParamsRefeOut\obj\Debug\netcoreapp3.1\Ex22_ParamsRefeOut.pdb
+C:\Users\Lucas\Documents\GitHub\EstudosCSharp\Ex22_ParamsRefeOut\Ex22_ParamsRefeOut\obj\Debug\netcoreapp3.1\Ex22_ParamsRefeOut.genruntimeconfig.cache
