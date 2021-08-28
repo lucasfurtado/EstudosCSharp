@@ -1,0 +1,16 @@
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex23_Listas\bin\Debug\net5.0\Ex23_Listas.exe
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex23_Listas\bin\Debug\net5.0\Ex23_Listas.deps.json
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex23_Listas\bin\Debug\net5.0\Ex23_Listas.runtimeconfig.json
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex23_Listas\bin\Debug\net5.0\Ex23_Listas.runtimeconfig.dev.json
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex23_Listas\bin\Debug\net5.0\Ex23_Listas.dll
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex23_Listas\bin\Debug\net5.0\ref\Ex23_Listas.dll
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex23_Listas\bin\Debug\net5.0\Ex23_Listas.pdb
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex23_Listas\obj\Debug\net5.0\Ex23_Listas.csproj.AssemblyReference.cache
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex23_Listas\obj\Debug\net5.0\Ex23_Listas.GeneratedMSBuildEditorConfig.editorconfig
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex23_Listas\obj\Debug\net5.0\Ex23_Listas.AssemblyInfoInputs.cache
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex23_Listas\obj\Debug\net5.0\Ex23_Listas.AssemblyInfo.cs
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex23_Listas\obj\Debug\net5.0\Ex23_Listas.csproj.CoreCompileInputs.cache
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex23_Listas\obj\Debug\net5.0\Ex23_Listas.dll
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex23_Listas\obj\Debug\net5.0\ref\Ex23_Listas.dll
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex23_Listas\obj\Debug\net5.0\Ex23_Listas.pdb
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex23_Listas\obj\Debug\net5.0\Ex23_Listas.genruntimeconfig.cache
