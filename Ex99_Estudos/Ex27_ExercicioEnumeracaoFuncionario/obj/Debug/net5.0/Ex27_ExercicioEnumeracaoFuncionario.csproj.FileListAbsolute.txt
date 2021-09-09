@@ -1,0 +1,16 @@
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex27_ExercicioEnumeracaoFuncionario\bin\Debug\net5.0\Ex27_ExercicioEnumeracaoFuncionario.exe
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex27_ExercicioEnumeracaoFuncionario\bin\Debug\net5.0\Ex27_ExercicioEnumeracaoFuncionario.deps.json
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex27_ExercicioEnumeracaoFuncionario\bin\Debug\net5.0\Ex27_ExercicioEnumeracaoFuncionario.runtimeconfig.json
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex27_ExercicioEnumeracaoFuncionario\bin\Debug\net5.0\Ex27_ExercicioEnumeracaoFuncionario.runtimeconfig.dev.json
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex27_ExercicioEnumeracaoFuncionario\bin\Debug\net5.0\Ex27_ExercicioEnumeracaoFuncionario.dll
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex27_ExercicioEnumeracaoFuncionario\bin\Debug\net5.0\ref\Ex27_ExercicioEnumeracaoFuncionario.dll
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex27_ExercicioEnumeracaoFuncionario\bin\Debug\net5.0\Ex27_ExercicioEnumeracaoFuncionario.pdb
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex27_ExercicioEnumeracaoFuncionario\obj\Debug\net5.0\Ex27_ExercicioEnumeracaoFuncionario.csproj.AssemblyReference.cache
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex27_ExercicioEnumeracaoFuncionario\obj\Debug\net5.0\Ex27_ExercicioEnumeracaoFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex27_ExercicioEnumeracaoFuncionario\obj\Debug\net5.0\Ex27_ExercicioEnumeracaoFuncionario.AssemblyInfoInputs.cache
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex27_ExercicioEnumeracaoFuncionario\obj\Debug\net5.0\Ex27_ExercicioEnumeracaoFuncionario.AssemblyInfo.cs
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex27_ExercicioEnumeracaoFuncionario\obj\Debug\net5.0\Ex27_ExercicioEnumeracaoFuncionario.csproj.CoreCompileInputs.cache
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex27_ExercicioEnumeracaoFuncionario\obj\Debug\net5.0\Ex27_ExercicioEnumeracaoFuncionario.dll
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex27_ExercicioEnumeracaoFuncionario\obj\Debug\net5.0\ref\Ex27_ExercicioEnumeracaoFuncionario.dll
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex27_ExercicioEnumeracaoFuncionario\obj\Debug\net5.0\Ex27_ExercicioEnumeracaoFuncionario.pdb
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex27_ExercicioEnumeracaoFuncionario\obj\Debug\net5.0\Ex27_ExercicioEnumeracaoFuncionario.genruntimeconfig.cache

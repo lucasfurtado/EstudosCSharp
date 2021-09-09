@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex25_Matriz/1.0.0": {
+        "runtime": {
+          "Ex25_Matriz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex25_Matriz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

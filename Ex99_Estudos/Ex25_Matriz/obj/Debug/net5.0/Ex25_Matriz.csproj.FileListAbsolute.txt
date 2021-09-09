@@ -1,0 +1,16 @@
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex25_Matriz\bin\Debug\net5.0\Ex25_Matriz.exe
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex25_Matriz\bin\Debug\net5.0\Ex25_Matriz.deps.json
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex25_Matriz\bin\Debug\net5.0\Ex25_Matriz.runtimeconfig.json
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex25_Matriz\bin\Debug\net5.0\Ex25_Matriz.runtimeconfig.dev.json
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex25_Matriz\bin\Debug\net5.0\Ex25_Matriz.dll
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex25_Matriz\bin\Debug\net5.0\ref\Ex25_Matriz.dll
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex25_Matriz\bin\Debug\net5.0\Ex25_Matriz.pdb
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex25_Matriz\obj\Debug\net5.0\Ex25_Matriz.GeneratedMSBuildEditorConfig.editorconfig
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex25_Matriz\obj\Debug\net5.0\Ex25_Matriz.AssemblyInfoInputs.cache
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex25_Matriz\obj\Debug\net5.0\Ex25_Matriz.AssemblyInfo.cs
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex25_Matriz\obj\Debug\net5.0\Ex25_Matriz.csproj.CoreCompileInputs.cache
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex25_Matriz\obj\Debug\net5.0\Ex25_Matriz.dll
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex25_Matriz\obj\Debug\net5.0\ref\Ex25_Matriz.dll
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex25_Matriz\obj\Debug\net5.0\Ex25_Matriz.pdb
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex25_Matriz\obj\Debug\net5.0\Ex25_Matriz.genruntimeconfig.cache
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex25_Matriz\obj\Debug\net5.0\Ex25_Matriz.csproj.AssemblyReference.cache

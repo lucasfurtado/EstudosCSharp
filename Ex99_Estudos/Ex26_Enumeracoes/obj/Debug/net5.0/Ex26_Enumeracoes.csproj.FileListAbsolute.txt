@@ -1,0 +1,16 @@
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex26_Enumeracoes\bin\Debug\net5.0\Ex26_Enumeracoes.exe
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex26_Enumeracoes\bin\Debug\net5.0\Ex26_Enumeracoes.deps.json
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex26_Enumeracoes\bin\Debug\net5.0\Ex26_Enumeracoes.runtimeconfig.json
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex26_Enumeracoes\bin\Debug\net5.0\Ex26_Enumeracoes.runtimeconfig.dev.json
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex26_Enumeracoes\bin\Debug\net5.0\Ex26_Enumeracoes.dll
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex26_Enumeracoes\bin\Debug\net5.0\ref\Ex26_Enumeracoes.dll
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex26_Enumeracoes\bin\Debug\net5.0\Ex26_Enumeracoes.pdb
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex26_Enumeracoes\obj\Debug\net5.0\Ex26_Enumeracoes.csproj.AssemblyReference.cache
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex26_Enumeracoes\obj\Debug\net5.0\Ex26_Enumeracoes.GeneratedMSBuildEditorConfig.editorconfig
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex26_Enumeracoes\obj\Debug\net5.0\Ex26_Enumeracoes.AssemblyInfoInputs.cache
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex26_Enumeracoes\obj\Debug\net5.0\Ex26_Enumeracoes.AssemblyInfo.cs
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex26_Enumeracoes\obj\Debug\net5.0\Ex26_Enumeracoes.csproj.CoreCompileInputs.cache
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex26_Enumeracoes\obj\Debug\net5.0\Ex26_Enumeracoes.dll
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex26_Enumeracoes\obj\Debug\net5.0\ref\Ex26_Enumeracoes.dll
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex26_Enumeracoes\obj\Debug\net5.0\Ex26_Enumeracoes.pdb
+E:\_EstudosC#\EstudosCSharp\Ex99_Estudos\Ex26_Enumeracoes\obj\Debug\net5.0\Ex26_Enumeracoes.genruntimeconfig.cache
