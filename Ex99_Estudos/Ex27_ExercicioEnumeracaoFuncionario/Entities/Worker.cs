@@ -22,7 +22,7 @@ namespace Ex27_ExercicioEnumeracaoFuncionario.Entities
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set; }
         public Department Department { get; set; }
-        private readonly List<HourContract> _hourContract;
+        private List<HourContract> _hourContract;
 
         public void AddContract(HourContract hContract)
         {
@@ -38,12 +38,18 @@ namespace Ex27_ExercicioEnumeracaoFuncionario.Entities
         {
             double income = 0.0;
             string date = string.Concat(year,"/",month);
-            List<HourContract> list = _hourContract.Where(x => x.Date == DateTime.Parse(date)).ToList();
+            List<HourContract> list = _hourContract.Where(x => x.Date.Year == year && x.Date.Month == month).ToList();
             foreach (HourContract item in list)
             {
                 income += item.TotalValue();
             }
-            return income;
+            return income + BaseSalary;
+        }
+
+        public override string ToString()
+        {
+            return "Name: " + Name + "\r\n" +
+                "Department: " + Department + "\r\n";
         }
     }
 }

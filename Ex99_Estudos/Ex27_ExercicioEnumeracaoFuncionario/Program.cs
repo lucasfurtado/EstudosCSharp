@@ -32,8 +32,22 @@ namespace Ex27_ExercicioEnumeracaoFuncionario
 
             for (int i = 0; i < contracts; i++)
             {
-                Console.WriteLine("Enter #{0} contract to this worker?", i+1);
+                HourContract hourContract = new HourContract();
+                Console.WriteLine($"Enter #{i+1} contract to this worker?");
+                Console.Write("Date (DD/MM/YYYY): ");
+                hourContract.Date = DateTime.Parse(Console.ReadLine());
+                Console.Write("Value per hour: ");
+                hourContract.ValuePerHour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                Console.Write("Duration (hours): ");
+                hourContract.Hours = int.Parse(Console.ReadLine());
+                worker.AddContract(hourContract);
             }
+
+            Console.WriteLine("Enter month and year to calculate income (MM/YYYY): ");
+            string monthAndYear = Console.ReadLine();
+            int month = int.Parse(monthAndYear.Substring(0,2));
+            int year = int.Parse(monthAndYear.Substring(3));
+            Console.WriteLine(string.Concat($"Income for {monthAndYear}: {worker.Income(year, month).ToString("F2",CultureInfo.InvariantCulture)}"));
         }
     }
 }
