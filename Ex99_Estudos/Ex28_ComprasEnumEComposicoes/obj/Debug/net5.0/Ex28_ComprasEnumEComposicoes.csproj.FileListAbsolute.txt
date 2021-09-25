@@ -1,0 +1,16 @@
+C:\Users\lucas\Documents\Estudos C#\EstudosCSharp\Ex99_Estudos\Ex28_ComprasEnumEComposicoes\bin\Debug\net5.0\Ex28_ComprasEnumEComposicoes.exe
+C:\Users\lucas\Documents\Estudos C#\EstudosCSharp\Ex99_Estudos\Ex28_ComprasEnumEComposicoes\bin\Debug\net5.0\Ex28_ComprasEnumEComposicoes.deps.json
+C:\Users\lucas\Documents\Estudos C#\EstudosCSharp\Ex99_Estudos\Ex28_ComprasEnumEComposicoes\bin\Debug\net5.0\Ex28_ComprasEnumEComposicoes.runtimeconfig.json
+C:\Users\lucas\Documents\Estudos C#\EstudosCSharp\Ex99_Estudos\Ex28_ComprasEnumEComposicoes\bin\Debug\net5.0\Ex28_ComprasEnumEComposicoes.runtimeconfig.dev.json
+C:\Users\lucas\Documents\Estudos C#\EstudosCSharp\Ex99_Estudos\Ex28_ComprasEnumEComposicoes\bin\Debug\net5.0\Ex28_ComprasEnumEComposicoes.dll
+C:\Users\lucas\Documents\Estudos C#\EstudosCSharp\Ex99_Estudos\Ex28_ComprasEnumEComposicoes\bin\Debug\net5.0\ref\Ex28_ComprasEnumEComposicoes.dll
+C:\Users\lucas\Documents\Estudos C#\EstudosCSharp\Ex99_Estudos\Ex28_ComprasEnumEComposicoes\bin\Debug\net5.0\Ex28_ComprasEnumEComposicoes.pdb
+C:\Users\lucas\Documents\Estudos C#\EstudosCSharp\Ex99_Estudos\Ex28_ComprasEnumEComposicoes\obj\Debug\net5.0\Ex28_ComprasEnumEComposicoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documents\Estudos C#\EstudosCSharp\Ex99_Estudos\Ex28_ComprasEnumEComposicoes\obj\Debug\net5.0\Ex28_ComprasEnumEComposicoes.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Estudos C#\EstudosCSharp\Ex99_Estudos\Ex28_ComprasEnumEComposicoes\obj\Debug\net5.0\Ex28_ComprasEnumEComposicoes.AssemblyInfo.cs
+C:\Users\lucas\Documents\Estudos C#\EstudosCSharp\Ex99_Estudos\Ex28_ComprasEnumEComposicoes\obj\Debug\net5.0\Ex28_ComprasEnumEComposicoes.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Estudos C#\EstudosCSharp\Ex99_Estudos\Ex28_ComprasEnumEComposicoes\obj\Debug\net5.0\Ex28_ComprasEnumEComposicoes.dll
+C:\Users\lucas\Documents\Estudos C#\EstudosCSharp\Ex99_Estudos\Ex28_ComprasEnumEComposicoes\obj\Debug\net5.0\ref\Ex28_ComprasEnumEComposicoes.dll
+C:\Users\lucas\Documents\Estudos C#\EstudosCSharp\Ex99_Estudos\Ex28_ComprasEnumEComposicoes\obj\Debug\net5.0\Ex28_ComprasEnumEComposicoes.pdb
+C:\Users\lucas\Documents\Estudos C#\EstudosCSharp\Ex99_Estudos\Ex28_ComprasEnumEComposicoes\obj\Debug\net5.0\Ex28_ComprasEnumEComposicoes.genruntimeconfig.cache
+C:\Users\lucas\Documents\Estudos C#\EstudosCSharp\Ex99_Estudos\Ex28_ComprasEnumEComposicoes\obj\Debug\net5.0\Ex28_ComprasEnumEComposicoes.csproj.AssemblyReference.cache
