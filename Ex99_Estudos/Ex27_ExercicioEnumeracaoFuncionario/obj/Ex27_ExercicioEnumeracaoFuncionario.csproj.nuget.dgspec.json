@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\_EstudosC#\\EstudosCSharp\\Ex99_Estudos\\Ex27_ExercicioEnumeracaoFuncionario\\Ex27_ExercicioEnumeracaoFuncionario.csproj": {}
+    "C:\\Users\\lucas\\Documents\\Estudos C#\\EstudosCSharp\\Ex99_Estudos\\Ex27_ExercicioEnumeracaoFuncionario\\Ex27_ExercicioEnumeracaoFuncionario.csproj": {}
   },
   "projects": {
-    "E:\\_EstudosC#\\EstudosCSharp\\Ex99_Estudos\\Ex27_ExercicioEnumeracaoFuncionario\\Ex27_ExercicioEnumeracaoFuncionario.csproj": {
+    "C:\\Users\\lucas\\Documents\\Estudos C#\\EstudosCSharp\\Ex99_Estudos\\Ex27_ExercicioEnumeracaoFuncionario\\Ex27_ExercicioEnumeracaoFuncionario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\_EstudosC#\\EstudosCSharp\\Ex99_Estudos\\Ex27_ExercicioEnumeracaoFuncionario\\Ex27_ExercicioEnumeracaoFuncionario.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Documents\\Estudos C#\\EstudosCSharp\\Ex99_Estudos\\Ex27_ExercicioEnumeracaoFuncionario\\Ex27_ExercicioEnumeracaoFuncionario.csproj",
         "projectName": "Ex27_ExercicioEnumeracaoFuncionario",
-        "projectPath": "E:\\_EstudosC#\\EstudosCSharp\\Ex99_Estudos\\Ex27_ExercicioEnumeracaoFuncionario\\Ex27_ExercicioEnumeracaoFuncionario.csproj",
+        "projectPath": "C:\\Users\\lucas\\Documents\\Estudos C#\\EstudosCSharp\\Ex99_Estudos\\Ex27_ExercicioEnumeracaoFuncionario\\Ex27_ExercicioEnumeracaoFuncionario.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "E:\\_EstudosC#\\EstudosCSharp\\Ex99_Estudos\\Ex27_ExercicioEnumeracaoFuncionario\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Documents\\Estudos C#\\EstudosCSharp\\Ex99_Estudos\\Ex27_ExercicioEnumeracaoFuncionario\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,8 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.emzi0767.com/api/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
